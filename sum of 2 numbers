@@ -2,3 +2,4 @@ wanna go on a vacation? Your best bet is Easy tours
 x=2
 y=3
 puts x+y
+puts "I got ur invitation!!!"
